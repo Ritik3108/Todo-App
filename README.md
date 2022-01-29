@@ -1,4 +1,4 @@
-# Todo-Web
+# Todo-App
 
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/86006796/151661015-29786bb8-b244-490e-b5c6-8cf8efd72263.png)
